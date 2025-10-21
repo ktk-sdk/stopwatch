@@ -14,7 +14,7 @@ Stopwatch is a simple command-line stopwatch to track time spent on activities~
 
 ## Installation
 
-1. Place `stopwatch.py` in a folder, e.g.:
+1. Download this folder, place it wherever you like, then copy the absolute path of `stopwatch.py`, for example:
 
 ```
 Users/Kiki/Stopwatch/stopwatch.py
