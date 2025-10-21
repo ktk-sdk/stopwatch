@@ -34,7 +34,7 @@ chmod +x Users/Kiki/Stopwatch/stopwatch.py
 You can test if this worked with ```which stopwatch```
 
 ### Windows
-```python setup_stopwatch.py```
+```python .\setup_stopwatch.py```
 
 You can test if this worked with ```where stopwatch```
 
