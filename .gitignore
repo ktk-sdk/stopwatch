@@ -1,0 +1,5 @@
+# ignore Mac system files
+.DS_Store
+
+# ignore History folder anywhere in the repo
+History/
