@@ -9,7 +9,7 @@ Stopwatch is a simple command-line stopwatch to track time spent on activities~
 * Start, stop, and track multiple activities
 * View status of running timers
 * View history of all sessions
-  * Data stored in `data/YYYY-MM-DD/<activity>.json` next to the script
+  * Data is stored in `History/YYYY-MM-DD/<activity>.json`
 * Global command works from any directory
 
 ## Installation
@@ -67,14 +67,14 @@ stopwatch history
 * Data folder is **next to the script**:
 
 ```
-~/Stopwatch/data/YYYY-MM-DD/<activity>.json
+~/Stopwatch/History/YYYY-MM-DD/<activity>.json
 ```
 
 * Example:
 
 ```
-~/Stopwatch/data/2025-10-21/reading.json
-~/Stopwatch/data/2025-10-21/coding.json
+~/Stopwatch/History/2025-10-21/reading.json
+~/Stopwatch/History/2025-10-21/coding.json
 ```
 
 * Each JSON contains:
