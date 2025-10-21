@@ -14,7 +14,9 @@ Stopwatch is a simple command-line stopwatch to track time spent on activities~
 
 ## Installation
 
-1. Download this folder, place it wherever you like, then copy the absolute path of `stopwatch.py`, for example:
+### For MacOS or Linux
+
+1. Download this folder, place it wherever you like, then copy the absolute path of `stopwatch.py`, which can look like:
 
 ```
 Users/Kiki/Stopwatch/stopwatch.py
@@ -28,19 +30,23 @@ chmod +x Users/Kiki/Stopwatch/stopwatch.py
 
 3. Create a global symlink:
 
-### macOS / Linux
 ```python3 setup_stopwatch.py```
 
 You can test if this worked with ```which stopwatch```
 
-### Windows
-```python .\setup_stopwatch.py```
+### For Windows
 
-then add the location of the installation to your PATH variables
+1. Download this folder, place it wherever you like, then copy the absolute path of `stopwatch.py`, which can look like:
+
+```
+Users/Kiki/Stopwatch/stopwatch.py
+```
+
+2. Run  ```python .\setup_stopwatch.py```
+
+3. Add the location of the installation to your PATH variables
 
 You can test if this worked with ```where stopwatch```
-
-
 
 ## Usage
 
