@@ -30,18 +30,13 @@ chmod +x Users/Kiki/Stopwatch/stopwatch.py
 
 ### macOS / Linux
 ```python3 setup_stopwatch.py```
+
 You can test if this worked with ```which stopwatch```
 
 ### Windows
 ```python setup_stopwatch.py```
+
 You can test if this worked with ```where stopwatch```
-
-```bat
-@echo off
-py "C:\full\path\to\stopwatch.py" %*
-```
-
-and place it in a folder that’s in your PATH (or add the folder to PATH).
 
 
 
