@@ -36,6 +36,8 @@ You can test if this worked with ```which stopwatch```
 ### Windows
 ```python .\setup_stopwatch.py```
 
+then add the location of the installation to your PATH variables
+
 You can test if this worked with ```where stopwatch```
 
 
