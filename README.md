@@ -3,6 +3,10 @@
 A simple command-line stopwatch to track time spent on activities.
 Each activity is saved in its own JSON file, organized by date. Can work globally via a symlink.
 
+<img width="682" height="507" alt="Screenshot 2025-10-21 at 4 13 19 PM" src="https://github.com/user-attachments/assets/7b95feb7-f75a-41a3-ab61-1ae2429eb482" />
+
+Stopwatch is a simple command-line stopwatch to track time spent on activities!
+Each activity is saved in its own JSON file, organized by date.
 
 ## Features
 
