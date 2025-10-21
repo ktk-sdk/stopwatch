@@ -26,13 +26,15 @@ Users/Kiki/Stopwatch/stopwatch.py
 chmod +x Users/Kiki/Stopwatch/stopwatch.py
 ```
 
-1. Create a global symlink:
+3. Create a global symlink:
 
-(macOS / Linux)
+### macOS / Linux
 ```python3 setup_stopwatch.py```
+You can test if this worked with ```which stopwatch```
 
-(Windows)
+### Windows
 ```python setup_stopwatch.py```
+You can test if this worked with ```where stopwatch```
 
 ```bat
 @echo off
